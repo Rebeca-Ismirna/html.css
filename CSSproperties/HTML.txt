@@ -1,0 +1,110 @@
+HTML Tags
+                  [X]<!-->
+                  [X]<!DOCTYPE>
+                  [X]<a>
+                  [X]<abbr>
+                  [X]<address>
+                  [X]<area>
+                  [X]<article>
+                  [X]<aside>
+                  [X]<audio>
+                  [X]<b>
+[]<base>
+[]<bdi>
+                  [X]<bdo>
+                  [X]<blockquote>
+                  [X]<body>
+                  [X]<br>
+                  [X]<button>
+[]<canvas>
+[]<caption>
+                  [X]<cite>
+                  [X]<code>
+                  [X]<col>
+                  [X]<colgroup>
+[]<data>
+[]<datalist>
+                  [X]<dd>
+                  [X]<del>
+[]<details>
+[]<dfn>
+[]<dialog>
+                  [X]<div>
+                  [X]<dl>
+                  [X]<dt>
+                  [X]<em>
+[]<embed>
+[]<fieldset>
+[]<figcaption>
+[]<figure>
+                  [X]<footer>
+[]<form>
+                  [X]<h1> - <h6>
+                  [X]<head>
+                  [X]<header>
+                  [X]<hr>
+                  [X]<html>
+                  [X]<i>
+                  [X]<hr>
+                  
+                  [X]<iframe>
+                  [X]<img>
+[]<input>
+                  [X]<ins>
+[]<kbd>
+[]<label>
+[]<legend>
+                  [X]<li>
+                  [X]<link>
+                  [X]<main>
+                  [X]<map>
+                  [X]<mark>
+                  [X]<meta>
+[]<meter>
+                  [X]<nav>
+                  [X]<noscript>
+[]<object>
+                  [X]<ol>
+[]<optgroup>
+[]<option>
+[]<output>
+                  [X]<p>
+[]<param>
+                  [X]<picture>
+                  [X]<pre>
+[]<progress>
+                  [X]<q>
+[]<rp>
+[]<rt>
+[]<ruby>
+[]<s>
+[]<samp>
+                  [X]<script>
+                  [X]<section>
+[]<select>
+                  [X]<small>
+[]<source>
+                  [X]<span>
+                  [X]<strong>
+                  [X]<style>
+                  [X]<sub>
+                  [X]<summary>
+                  [X]<sup>
+[]<svg>
+                  [X]<table>
+                  [X]<tbody>
+[]<td>
+[]<template>
+[]<textarea>
+                  [X]<tfoot>
+[]<th>
+                  [X]<thead>
+[]<time>
+                  [X]<title>
+[]<tr>
+[]<track>
+                  [X]<u>
+                  [X]<ul>
+[]<var>
+                  [X]<video>
+[]<wbr>
