@@ -14,16 +14,16 @@ css properties
                               animation-play-state
                               animation-timing-function
                               backface-visibility
-                              background
-                              background-attachment
-                              background-blend-mode
-                              background-clip
+[X]background
+[X]background-attachment
+[X]background-blend-mode
+[X]background-clip
 [X]background-color
 [X]background-image
-                              background-origin
-                              background-position
-                              background-repeat
-                              background-size
+[X]background-origin
+[X]background-position 
+[X]background-repeat 
+[X]background-size
 [X]border
 [X]border-bottom
 [X]border-bottom-color
@@ -31,7 +31,7 @@ css properties
 [X]border-bottom-right-radius
 [X]border-bottom-style
 [X]border-bottom-width
-                              border-collapse
+[X]border-collapse
 [X]border-color
 [X]border-image
 [X]border-image-outset
@@ -47,8 +47,7 @@ css properties
 [X]border-right
 [X]border-right-color
 [X]border-right-style
-[X]border-right-width
-                              border-spacing
+[X]border-right-width[X]border-spacing
 [X]border-style
 [X]border-top
 [X]border-top-color
